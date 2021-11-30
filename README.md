@@ -2,13 +2,10 @@
 Ticket Generator
 
 Prerequisites:
-
 Java 8
-
 maven
 
 Run:
-
 directly from IDE
 
 or
